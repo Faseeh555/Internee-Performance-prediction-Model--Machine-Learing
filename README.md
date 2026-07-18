@@ -148,7 +148,7 @@ Likely to Excel
 ## Repository Structure
 
 ```
-Internee-Performance-prediction-Model--Machine-Learing
+Internee-Performance-prediction-Model--Machine-Learning
 │
 ├── dataset/
 │   └── intern_performance_regression_dataset_v2.csv
@@ -170,13 +170,13 @@ Internee-Performance-prediction-Model--Machine-Learing
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Internee-Performance-prediction-Model--Machine-Learing.git
+git clone https://github.com/your-username/Internee-Performance-prediction-Model--Machine-Learning.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd Internee-Performance-prediction-Model--Machine-Learing
+cd Internee-Performance-prediction-Model--Machine-Learning
 ```
 
 Install the required packages:
@@ -264,9 +264,9 @@ Possible extensions for this project include:
 BS Computer Science Student  
 Machine Learning Enthusiast | Python Developer | Frontend Developer
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/Faseeh555
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: www.linkedin.com/in/faseeh-ur-rehman-anjum-503b62306
 
 ---
 
